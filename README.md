@@ -40,11 +40,15 @@
 </div>
 
 ## Game-Dev Expertise
-- Unity, Unreal Engine 게임 제작
-- Server/Client Architecture 멀티플레이어 게임 개발
-- Test-Driven Development 경험 (테스트 작성, Github Actions 테스트 자동화)
-- DirectX 기초, ShaderLab, HLSL 쉐이더 프로그래밍, PhysX 연동
-- Unity 오픈소스 멀티플레이어 라이브러리 [MirrorNetworking/Mirror](https://github.com/MirrorNetworking/Mirror) Contribution
+🎮 Unity, Unreal Engine 게임 제작
+
+🌐 Server/Client Architecture 멀티플레이어 게임 개발 + Steamworks 연동
+
+🥼 Test-Driven Development - 테스트 작성, GitHub Actions 테스트 자동화
+
+👾 DirectX 기초, ShaderLab, HLSL 쉐이더 프로그래밍, PhysX 연동
+
+🪞 Unity 오픈소스 멀티플레이어 라이브러리 [MirrorNetworking/Mirror](https://github.com/MirrorNetworking/Mirror) Contribution <br/>
 
 ## Others
 - SvelteKit/Firebase 웹사이트 제작 및 Deploy
@@ -63,8 +67,6 @@
 [프로젝트 더보기...](https://www.imlu.me/projects)
 
 ## Currently working on...
-Unity Multiplayer Game (~2022.12)
-- Steamworks 연동 온라인 멀티플레이
-- 게임 시스템, 컨텐츠 개발
+Unity Multiplayer Game (2023.12 출시 예정)
 
 
