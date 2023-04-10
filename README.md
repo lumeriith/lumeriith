@@ -51,6 +51,7 @@
 🪞 Unity 오픈소스 멀티플레이어 라이브러리 [MirrorNetworking/Mirror](https://github.com/MirrorNetworking/Mirror) Contribution <br/>
 
 ## Others
+- Kanban Board와 Sprint를 이용한 프로젝트 관리 및 협업
 - SvelteKit/Firebase 웹사이트 제작 및 Deploy
 - AWS, Google Cloud 이용 클라우드 컴퓨팅, 이메일 서비스
 - Raspberry Pi, BackBlaze, Docker 이용 리눅스 환경 파일 서버 구축 및 자동 백업
