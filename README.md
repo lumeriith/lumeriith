@@ -46,7 +46,7 @@
 
 🥼 Test-Driven Development - 테스트 작성, GitHub Actions 테스트 자동화
 
-👾 DirectX 기초, ShaderLab, HLSL 쉐이더 프로그래밍, PhysX 연동
+👾 DirectX 기초, ShaderLab/HLSL(Foward, Deferred) 쉐이더 프로그래밍, PhysX 연동 멀티쓰레드 프로그래밍
 
 🪞 Unity 오픈소스 멀티플레이어 라이브러리 [MirrorNetworking/Mirror](https://github.com/MirrorNetworking/Mirror) Contribution <br/>
 
