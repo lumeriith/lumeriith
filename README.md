@@ -68,6 +68,19 @@
 [프로젝트 더보기...](https://www.imlu.me/projects)
 
 ## Currently working on...
-Unity Multiplayer Game (2023.12 출시 예정)
+<p align="center">
+<img width="700" alt="SoD Thumbnail GIGDC" src="https://github.com/lumeriith/lumeriith/assets/41206458/c06655af-04e0-41b3-ba1b-da75a68fd011">
+</p>
+
+<div align=center>
+  <b>Shape of Dream</b>
+  
+  [꿈의 세계를 탐험하는 액션 협동 로그라이크](https://www.imlu.me/projects/shapeofdream)
+  
+  2023 하반기 출시 예정
+</div>
+
+
+
 
 
