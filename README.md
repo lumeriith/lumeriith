@@ -69,15 +69,16 @@
 
 ## Currently working on...
 <p align="center">
-<img width="700" alt="SoD Thumbnail GIGDC" src="https://github.com/lumeriith/lumeriith/assets/41206458/c06655af-04e0-41b3-ba1b-da75a68fd011">
+<img width="700" alt="SoD Thumbnail GIGDC" src="https://github.com/lumeriith/lumeriith/assets/41206458/496332c1-938d-464a-9718-463ddf524067">
 </p>
 
 <div align=center>
   <b>Shape of Dream</b>
+
   
-  [꿈의 세계를 탐험하는 액션 협동 로그라이크](https://www.imlu.me/projects/shapeofdream)
+  [꿈의 세계를 탐험하는 액션 협동 로그라이크](https://store.onstove.com/ko/games/2258)
   
-  2023 하반기 출시 예정
+  2024 연말 공개 예정
 </div>
 
 
