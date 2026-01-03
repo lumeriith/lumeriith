@@ -1,10 +1,9 @@
 <div align=center>
 
 # 🦎Eunseop Shim
-
-**Kyunghee University Undergraduate**
+**CEO / Lead Programmer of Lizard Smoothie**
 <br/>
-**Enthusiastic Game Developer**
+**Kyunghee University Undergraduate**
 <br/>
 **Hobbyist Web Developer**
 <br/>
